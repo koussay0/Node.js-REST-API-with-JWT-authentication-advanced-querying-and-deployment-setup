@@ -144,4 +144,4 @@ module.exports = {
 Thanks for USAM for giving us the chance for this learning opportunity.
 # Owner
 ## Github : [github ](https://github.com/koussay0)
-## Linkedin : [linkedin] (linkedin.com/in/koussayjaballah) 
+## Linkedin : [linkedin](linkedin.com/in/koussayjaballah) 
